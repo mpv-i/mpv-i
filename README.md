@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there! 🤩🌟
 
-<!--
-**mpv-i/mpv-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a filmmaker learning how to code🫡
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on building a website for independent movies🎞️
+- 🌱 I’m currently learning the JavaScript language👩🏻‍💻📓
+- 👯 I’m looking to collaborate with other software engineers to build a streaming app for independent filmmakers🎬
+- 🤔 I’m looking for help with web development 🌐
+- 💬 Ask me about movies!🎥🌟
+- ✍🏽 Additional skill: Graphic Design👩🏻‍🎨
+- 📫 How to reach me: monicaperez-valle@pursuit.org📩
+- ⚡ Fun fact: You can watch the pilot episode to my comedy series, 🌟GROWN🌟 @ https://youtu.be/ndCdi0Cct9g #FilmJunkyTV👁️🌟
 -->
